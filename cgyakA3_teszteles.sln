@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Negyzet", "1_Negyzet\1_Negyzet.csproj", "{6AF304DD-E2D9-4F86-9AC2-375CC5A559E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_NegyzetTests", "1_NegyzetTests\1_NegyzetTests.csproj", "{A3C3B73F-40D5-4C59-8780-D78082AA8948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF304DD-E2D9-4F86-9AC2-375CC5A559E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF304DD-E2D9-4F86-9AC2-375CC5A559E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF304DD-E2D9-4F86-9AC2-375CC5A559E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF304DD-E2D9-4F86-9AC2-375CC5A559E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C3B73F-40D5-4C59-8780-D78082AA8948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C3B73F-40D5-4C59-8780-D78082AA8948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C3B73F-40D5-4C59-8780-D78082AA8948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C3B73F-40D5-4C59-8780-D78082AA8948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F29401B-E768-40A9-A676-F7880A9CF825}
+	EndGlobalSection
+EndGlobal
